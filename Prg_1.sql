@@ -1,1 +1,2 @@
-Select* from 
+Select* from  gesg 
+gse g a 
